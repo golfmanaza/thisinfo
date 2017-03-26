@@ -1,4 +1,4 @@
-# thisinfo<!DOCTYPE html>
+
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -70,28 +70,24 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 	<hr>
        <p><a href="https://www.facebook.com/timargolf">Facebook</a></p>
        <p><a href="https://twitter.com/timaaaar">Twitter</a></p>
-       <p><a href="https://www.instagram.com/timaaaar/">Instagram</a></p>
-   
-       <br>
-
-        </div>
+       <p><a href="https://www.instagram.com/timaaaar/">Instagram</a></p> <br>
+</div>
       </div><br>
-
-    <!-- End Left Column -->
+   <!-- End Left Column -->
     </div>
-
-    <!-- Right Column -->
+  <!-- Right Column -->
     <div class="w3-twothird">
     
       <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-flag fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Hatyairatprachasun School</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2088-2014<span class="w3-tag w3-teal w3-round"></h6>
+          <h6> class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><h7>2008-2014</h7> <span class="w3-tag w3-teal w3-round">		
+	  
           <p> lower secondary school- Mini English Program<br>
 	       upper secondary school- Science-Math Program.</p>
           <hr>
-        </div>
+      
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Prince of Songkla University</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015 - <span class="w3-tag w3-pale-yellow w3-round">Current</span></h6>
@@ -143,6 +139,3 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   
 </footer>
 
-
-</body>
-</html>
